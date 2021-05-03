@@ -1,0 +1,190 @@
+[Running] 
+beakers
+ProductIdEN 0: 33806
+ProductIdEN 1: 33772
+ProductIdEN 2: 3653579
+ProductIdEN 3: 3653722
+ProductIdEN 4: 33607
+ProductIdEN 5: 4912615
+ProductIdEN 6: 10210685
+ProductIdEN 7: 4912618
+ProductIdEN 8: 33745
+ProductIdEN 9: 02555101
+ProductIdEN 10: 3653743
+ProductIdLW 0: 6480429
+ProductIdLW 1: 3653722
+ProductIdLW 2: 4521499
+ProductIdLW 3: 4521489
+ProductIdLW 4: 33509
+ProductIdLW 5: 33463
+ProductIdLW 6: S400563B
+ProductIdLW 7: S02653
+ProductIdLW 8: 34096
+ProductIdLW 9: 33524
+ProductIdLW 10: 3653743
+ProdId: 3653579, End Pos:, 3, LW Pos: 16
+ProdId: 3653722, End Pos:, 4, LW Pos: 2
+ProdId: 3653743, End Pos:, 11, LW Pos: 11
+gloves
+ProductIdEN 0: 6827130
+ProductIdEN 1: 2826798
+ProductIdEN 2: 3702998
+ProductIdEN 3: 3570663
+ProductIdEN 4: 4099926
+ProductIdEN 5: 7115578
+ProductIdEN 6: 3215232
+ProductIdEN 7: 3791164
+ProductIdEN 8: 142156
+ProductIdEN 9: 4437164
+ProductIdEN 10: 6551587
+ProductIdLW 0: 3702998
+ProductIdLW 1: 2826798
+ProductIdLW 2: 6827130
+ProductIdLW 3: 3570663
+ProductIdLW 4: 144199
+ProductIdLW 5: 142325
+ProductIdLW 6: 3003949
+ProductIdLW 7: 4817251
+ProductIdLW 8: 3505616
+ProductIdLW 9: 144830
+ProductIdLW 10: 143229
+ProdId: 6827130, End Pos:, 1, LW Pos: 3
+ProdId: 2826798, End Pos:, 2, LW Pos: 2
+ProdId: 3702998, End Pos:, 3, LW Pos: 1
+ProdId: 3570663, End Pos:, 4, LW Pos: 4
+nitrile gloves
+ProductIdEN 0: 6827130
+ProductIdEN 1: 2826798
+ProductIdEN 2: 3702998
+ProductIdEN 3: 3570663
+ProductIdEN 4: 4099926
+ProductIdEN 5: 7115578
+ProductIdEN 6: 3215232
+ProductIdEN 7: 3791164
+ProductIdEN 8: 142156
+ProductIdEN 9: 4437164
+ProductIdEN 10: 6551587
+ProductIdLW 0: 3702998
+ProductIdLW 1: 2826798
+ProductIdLW 2: 3570663
+ProductIdLW 3: 3702999
+ProductIdLW 4: 6827130
+ProductIdLW 5: 3003949
+ProductIdLW 6: 137222
+ProductIdLW 7: 4829811
+ProductIdLW 8: 3702997
+ProductIdLW 9: 6827068
+ProductIdLW 10: 8015527
+ProdId: 6827130, End Pos:, 1, LW Pos: 5
+ProdId: 2826798, End Pos:, 2, LW Pos: 2
+ProdId: 3702998, End Pos:, 3, LW Pos: 1
+ProdId: 3570663, End Pos:, 4, LW Pos: 3
+timer
+ProductIdEN 0: 02261840
+ProductIdEN 1: 066625
+ProductIdEN 2: 0666246
+ProductIdEN 3: 06664252
+ProductIdEN 4: 1464914
+ProductIdEN 5: 0666251
+ProductIdEN 6: 0666250
+ProductIdEN 7: 1464983
+ProductIdEN 8: 0666255
+ProductIdEN 9: 4835401
+ProductIdEN 10: 066623
+ProductIdLW 0: 02261840
+ProductIdLW 1: 0666251
+ProductIdLW 2: 15081100
+ProductIdLW 3: 1464917
+ProductIdLW 4: 0666246
+ProductIdLW 5: 3540306
+ProductIdLW 6: 4028241
+ProductIdLW 7: 3125625
+ProductIdLW 8: 2372241
+ProductIdLW 9: S90861
+ProductIdLW 10: S40709
+ProdId: 02261840, End Pos:, 1, LW Pos: 1
+ProdId: 0666246, End Pos:, 3, LW Pos: 5
+ProdId: 0666251, End Pos:, 6, LW Pos: 2
+ProdId: 066623, End Pos:, 11, LW Pos: 28
+ph meter
+ProductIdEN 0: 7073776
+ProductIdEN 1: 8557008
+ProductIdEN 2: 7073779
+ProductIdEN 3: 7073777
+ProductIdEN 4: 7070336
+ProductIdEN 5: 4529651
+ProductIdEN 6: 4529644
+ProductIdEN 7: 13303204PM
+ProductIdEN 8: 7070335
+ProductIdEN 9: 7160036
+ProductIdEN 10: 4518475
+ProductIdLW 0: 4529651
+ProductIdLW 1: 13636AP115A
+ProductIdLW 2: 4839038
+ProductIdLW 3: 13636AP110A
+ProductIdLW 4: 13636AP115
+ProductIdLW 5: 13636AP110
+ProductIdLW 6: 8557008
+ProductIdLW 7: S35922
+ProductIdLW 8: S35923
+ProductIdLW 9: AA44553KT
+ProductIdLW 10: S45153
+ProdId: 8557008, End Pos:, 2, LW Pos: 7
+ProdId: 7070336, End Pos:, 5, LW Pos: 22
+ProdId: 4529651, End Pos:, 6, LW Pos: 1
+ProdId: 4529644, End Pos:, 7, LW Pos: 19
+ProdId: 7070335, End Pos:, 9, LW Pos: 26
+safety glasses
+ProductIdEN 0: 95363
+ProductIdEN 1: 191302090
+ProductIdEN 2: 19181514
+ProductIdEN 3: 19041232
+ProductIdEN 4: 95401
+ProductIdEN 5: 95869
+ProductIdEN 6: 96859
+ProductIdEN 7: 7114775
+ProductIdEN 8: 3569272
+ProductIdEN 9: 97527
+ProductIdEN 10: 19006204
+ProductIdLW 0: 19181514
+ProductIdLW 1: 95363
+ProductIdLW 2: 191303515
+ProductIdLW 3: 97323
+ProductIdLW 4: 4342255
+ProductIdLW 5: 97755
+ProductIdLW 6: 95385
+ProductIdLW 7: 3973426
+ProductIdLW 8: 3973422
+ProductIdLW 9: 97527
+ProductIdLW 10: 3203261
+ProdId: 95363, End Pos:, 1, LW Pos: 2
+ProdId: 19181514, End Pos:, 3, LW Pos: 1
+ProdId: 97527, End Pos:, 10, LW Pos: 10
+thermometer
+ProductIdEN 0: 4555065
+ProductIdEN 1: 4555071
+ProductIdEN 2: 4414441
+ProductIdEN 3: 4491633
+ProductIdEN 4: 4570364
+ProductIdEN 5: 4414429
+ProductIdEN 6: 4555063
+ProductIdEN 7: 4672293
+ProductIdEN 8: 4908421
+ProductIdEN 9: 203122
+ProductIdEN 10: 4555059
+ProductIdLW 0: 4555065
+ProductIdLW 1: 4555071
+ProductIdLW 2: 203122
+ProductIdLW 3: 4415207
+ProductIdLW 4: 3078284
+ProductIdLW 5: 4077274
+ProductIdLW 6: 4017346
+ProductIdLW 7: S01550
+ProductIdLW 8: S01545
+ProductIdLW 9: S01570
+ProductIdLW 10: 4017365
+ProdId: 4555065, End Pos:, 1, LW Pos: 1
+ProdId: 4555071, End Pos:, 2, LW Pos: 2
+ProdId: 203122, End Pos:, 10, LW Pos: 3
+
+
